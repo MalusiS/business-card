@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #1b1b1b;
+    color: #ffffff;
+    border-top: 3px solid #62c1bf;
+    border-right: 3px solid #62c1bf;
+    border-left: 3px solid #62c1bf;
+    border-bottom: 7px solid #e23e57;
+    border-radius: 10px;
+}
+
+.image {
+    width: 150px;
+}
+
+.identity {
+    margin-top: -17px;
+}
+
+.id-title {
+    color: #e23e57;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+}
+
+.in-icon {
+    width: 20px;
+}
+
+.in-link {
+    color: #62c1bf;
+}
